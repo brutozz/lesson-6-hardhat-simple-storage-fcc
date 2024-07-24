@@ -1,4 +1,4 @@
-# Lesson # 5 > hardhat-simple-storage-fcc
+# Lesson #6 > hardhat-simple-storage-fcc
 
 This code was written as part of my introduction to full-blockchain-solidity-course-js from @PatrickAlphaC
 
